@@ -1,0 +1,5 @@
+Dodawanie Result: 00000101
+Odejmowanie Result: 00000001
+Mnozenie Result: 00000110
+Dzielenie Result: 00000010
+Dzielenie Przez Zero Result: 00000000
